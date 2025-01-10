@@ -2,19 +2,32 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey%20There&animation=fadeIn&type=waving&color=gradient&height=100" />
 </p>
 
-* 🌱 My name is Diana Silva and I’m currently working as a Junior Software Engineer at WNC.
+```yaml
+name: Diana Silva
+located_in: East Midlands, UK
+current_job: Junior Software Engineer
+education:
+  [
+    "Self-Taught Developer",
+    "On going Bachelors in Computing and IT ",
+  ]
+company: WNC
+
+fields_of_interests:
+  [
+    "Web Integrations",
+    "Machine Learning",
+    "UI/UX",
+    "Game Development",
+  ]
+  
+hobbies: ["Gaming", "Cinema", "Reading", "Hiking"]
+```
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient" style="transform: rotate(180deg);" />
+</p>
 
 <!--
-**DianaSill/DianaSill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![image](https://github.com/user-attachments/assets/f72c92e4-d845-46ee-8c57-d86267f74078)
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌱 My name is Diana Silva and I’m currently working as a Junior Software Engineer at WNC.
 -->
