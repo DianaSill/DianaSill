@@ -12,7 +12,6 @@ education:
     "On going Bachelors in Computing and IT ",
   ]
 company: WNC
-
 fields_of_interests:
   [
     "Web Integrations",
@@ -20,11 +19,10 @@ fields_of_interests:
     "UI/UX",
     "Game Development",
   ]
-  
 hobbies: ["Gaming", "Cinema", "Reading", "Hiking"]
 ```
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&descAlignY=5&descAlign=10&section=footer)" />
+  <img src="[https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&descAlignY=5&descAlign=10&section=footer)]" />
 </p>
 
 <!--
