@@ -24,7 +24,7 @@ fields_of_interests:
 hobbies: ["Gaming", "Cinema", "Reading", "Hiking"]
 ```
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient" style="transform: rotate(180deg);" />
+  <img src="[https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&descAlignY=5&descAlign=10&section=footer)" />
 </p>
 
 <!--
