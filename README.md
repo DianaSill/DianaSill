@@ -22,7 +22,7 @@ fields_of_interests:
 hobbies: ["Gaming", "Cinema", "Reading", "Hiking"]
 ```
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20There&animation=fadeIn&type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?text&animation=fadeIn&type=waving&color=gradient&height=100&section=footer" />
 </p>
 
 <!--
