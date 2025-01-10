@@ -1,12 +1,10 @@
-## Hi there 👋
+https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hey%20there&textBg=false
 
 * 🌱 My name is Diana Silva and I’m currently working as a Junior Software Engineer at WNC.
 
-![image](https://github.com/user-attachments/assets/f72c92e4-d845-46ee-8c57-d86267f74078)
-
 <!--
 **DianaSill/DianaSill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![image](https://github.com/user-attachments/assets/f72c92e4-d845-46ee-8c57-d86267f74078)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
