@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hey%20there&textBg=false)"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hey%20there&textBg=false)"/>
 </p>
 
 * 🌱 My name is Diana Silva and I’m currently working as a Junior Software Engineer at WNC.
