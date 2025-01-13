@@ -18,10 +18,10 @@ fields_of_interests:
     "Web Integrations",
     "Machine Learning",
     "UI/UX",
-    "Game Development",
   ]
 hobbies: ["Gaming", "Cinema", "Reading", "Hiking"]
 ```
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dianasill&layout=compact&theme=radical)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text&animation=fadeIn&type=waving&color=gradient&height=100&section=footer" />
 </p>
