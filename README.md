@@ -11,7 +11,7 @@ education:
     "Self-Taught Developer",
     "On going Bachelors in Computing and IT ",
   ]
-workplace: WNC
+workplace: West Northamptonshire Council
 community_involvement: GirlCode Ambassador
 fields_of_interests:
   [
