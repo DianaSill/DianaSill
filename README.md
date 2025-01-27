@@ -11,8 +11,8 @@ education:
     "Self-Taught Developer",
     "On going Bachelors in Computing and IT ",
   ]
+workplace: WNC
 community_involvement: GirlCode Ambassador
-company: WNC
 fields_of_interests:
   [
     "Web Integrations",
